@@ -1,3 +1,5 @@
+🧾 Standard Reach — Welcome & Guidelines
+
 Welcome to Standard Reach, a collaborative marketing agency dedicated to creativity, integrity, and measurable impact.
 Before joining campaigns, projects, or community discussions, please review and agree to the following guidelines.
 
@@ -62,4 +64,4 @@ Regular audits ensure compliance with Standard Reach policies.
 💬 7. Contact
 
 For questions, support, or partnership inquiries:
-📩 Contact management in #operations or email
+📩 Contact management in #operations or email support@standardreach.com
